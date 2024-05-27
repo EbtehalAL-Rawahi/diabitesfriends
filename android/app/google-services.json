@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416245782905",
+    "project_id": "sugerapp-3c77f",
+    "storage_bucket": "sugerapp-3c77f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416245782905:android:5fd6ab940856c4532777a8",
+        "android_client_info": {
+          "package_name": "com.sugerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0myy0A2WDmFwWisP9jHMadjkLrgjrLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
